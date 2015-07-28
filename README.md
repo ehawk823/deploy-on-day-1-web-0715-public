@@ -36,21 +36,21 @@ You'll have about three hours to complete the first section of this lab. Use tha
 
 Please collect the following content from your assigned student for their profile. This content doesn't have to be finalized, but you need something. They'll be using this content as the project evolves for their resume and other profiles online.
 
-* Name
-* Github Username
-* Blog Url (if they don't already have a blog it will be their-github-username.github.io)
-* Tagline
-* Profile Picture (something normal, a headshot, of a good reusable size that can be easily cropped)
-* Background Picture
-* Treehouse Account
-* CoderWall Account
-* CodeSchool Account
-* Favorite Websites
-* Previous Work Experience
-* Short Bio
-* Twitter URL
-* LinkedIn URL
-* Education
+* Name: Chris Mcguingat
+* Github Username: cmc33
+* Blog Url (if they don't already have a blog it will be their-github-username.github.io): "cmc33.github.io"
+* Tagline: "Pizza!"
+* Profile Picture (something normal, a headshot, of a good reusable size that can be easily cropped): chris.jpg
+* Background Picture:
+* Treehouse Account: https://teamtreehouse.com/chrismcguigan
+* CoderWall Account: https://coderwall.com/cmc33
+* CodeSchool Account: https://www.codeschool.com/account/cmc33
+* Favorite Websites: tumblr, cdmcodes.com
+* Previous Work Experience: Doin' stuff
+* Short Bio: Grew up in NJ, interested in photography, pumped about Flatiron School.
+* Twitter URL: https://twitter.com/Chris_McGuigan
+* LinkedIn URL: https://www.linkedin.com/profile/view?id=47692686&authType=NAME_SEARCH&authToken=3N0b&locale=en_US&srchid=1979983671438005360732&srchindex=1&srchtotal=35&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A1979983671438005360732%2CVSRPtargetId%3A47692686%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH
+* Education: Rutgers U.
 
 ## Structure
 
